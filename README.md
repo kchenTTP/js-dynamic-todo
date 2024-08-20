@@ -4,6 +4,9 @@ We will build a to-do list web application using HTML, CSS, and JavaScript. By m
 
 ---
 
+> 🚨 **Note**
+> This web app does not have a backend database to store the list items so all items will be lost when you refresh the page. This is only intended as a DOM manipulation practice.
+
 ## Tasks
 1. Create HTML object for list items.
 2. Add and remove list item from to-do list.
