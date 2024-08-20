@@ -39,7 +39,6 @@ function addTaskItem() {
 
 // Add event listener to input text box for when "Enter" key is hit
 input.addEventListener("keyup", (event) => {
-    const todoText = input.value;
     if (event.key === "Enter") {
         addTaskItem();
     }
